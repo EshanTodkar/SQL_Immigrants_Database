@@ -1,4 +1,4 @@
-# SQL_Immigrants_Database
+# Exploring the Immigrant Landscape of the USA: A SQL Database for Data-Driven Insights
 
 This database will focus on entities such as immigrants, family members, country of origin, employment history, education history, visa types, citizenship status, contact information, legal documents, and port of entry records. The purpose of this database is to provide a centralized repository of information that can benefit immigrants, recruiters, researchers, government organizations, and various stakeholders to offer valuable insights into immigration trends and patterns.  
 
